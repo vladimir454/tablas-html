@@ -1,0 +1,45 @@
+header {
+    background-color: #69554B;
+    color: white;
+    text-align: center;
+    
+}
+
+main {
+    /* background-color: #E5D3B5; */
+}
+
+footer {
+    background-color: #69554B;
+    color: white;
+    text-align: center;
+}
+
+th,
+td {
+    border: 2px solid #EBB763;
+    padding: 5px;
+    text-align: left;
+    text-align: center;
+    background-color: #E5D3B5;
+}
+
+th {
+    background-color: antiquewhite;
+}
+
+section {
+    display: block;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
